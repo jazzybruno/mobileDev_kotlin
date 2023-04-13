@@ -27,6 +27,8 @@
         </activity>
 
         <activity android:name=".SecondActivity" />
+        <activity android:name=".SharingActivity"/>
+        <activity android:name=".HobbiesActivity"/>
     </application>
 
 </manifest>
